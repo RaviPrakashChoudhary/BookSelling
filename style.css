@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.p-3 {
+    width: 100%;
+}
+.py-5 {
+    padding-top: 3rem!important;
+    padding-bottom: 3rem!important;
+    padding-left:3rem!important;
+    /* padding-right:3rem!important; */
+}
+.img1{
+    background: url(./book1.jpg);
+    background-size: cover;
+    border: 2px solid black;
+}
+.img2{
+    background: url(./book2.jpg);
+    background-size: cover;
+    border: 2px solid black;
+
+}
+.img3{
+    background: url(./book3.jpg);
+    background-size: cover;
+    border: 2px solid black;
+}
+.nav_a{
+    text-decoration: none;
+    color: white;
+}
+.navbar .navFooterMoreOnAmazon{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: gray;
+}
+
